@@ -48,5 +48,13 @@
       "Homebase",
       "HROne"
     ]
+  },
+  {
+    "name": "Ziik",
+    "url": "https://ziik.dk",
+    "description": "Ziik nytænker intranettet, med en all-in-one kommunikations- og informationdelingsplatform, der sikrer bedre engagement for medarbejdere",
+    "alternatives": [
+      "Sharepoint"
+    ]
   }
 ]
