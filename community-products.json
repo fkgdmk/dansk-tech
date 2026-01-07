@@ -38,5 +38,15 @@
       "Kitchn",
       "Bannerwise"
     ]
+  },
+  {
+    "name": "Workfeed",
+    "url": "https://workfeed.io",
+    "description": "Arbejdstidsstyring og HR-system til planlægning, tidsregistrering og medarbejderadministration",
+    "alternatives": [
+      "Deputy",
+      "Homebase",
+      "HROne"
+    ]
   }
 ]
