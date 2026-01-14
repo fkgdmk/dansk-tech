@@ -66,5 +66,16 @@
       "Billo",
       "Insense"
     ]
+  },
+  {
+    "name": "Webhook.site",
+    "url": "https://webhook.site",
+    "description": "Hjælper apps til at snakke sammen og bygge workflows",
+    "alternatives": [
+      "Zapier",
+      "N8n",
+      "Pipedream",
+      "Requestbin"
+    ]
   }
 ]
