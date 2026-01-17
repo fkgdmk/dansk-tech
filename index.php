@@ -14,7 +14,7 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Den danske tech stack til software-virksomheder</title>
+  <title>Den danske tech stack</title>
   <meta name="description" content="Oversigt over danske tech-systemer som alternativer til store internationale spillere. Få inspiration til din tech stack med danske SaaS-løsninger til betalinger, analytics, monitoring og mere.">
   
   <!-- Canonical URL -->
@@ -33,7 +33,7 @@
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://dansktechstack.dk/">
-  <meta property="og:title" content="Den danske tech stack til software-virksomheder">
+  <meta property="og:title" content="Den danske tech stack">
   <meta property="og:description" content="Oversigt over danske tech-systemer som alternativer til store internationale spillere. Få inspiration til din tech stack med danske SaaS-løsninger.">
   <meta property="og:image" content="https://dansktechstack.dk/og-image-dansktechstack.png">
   <meta property="og:locale" content="da_DK">
@@ -42,7 +42,7 @@
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://dansktechstack.dk/">
-  <meta property="twitter:title" content="Den danske tech stack til software-virksomheder">
+  <meta property="twitter:title" content="Den danske tech stack">
   <meta property="twitter:description" content="Oversigt over danske tech-systemer som alternativer til store internationale spillere.">
   <meta property="twitter:image" content="https://dansktechstack.dk/og-image-dansktechstack.png">
   
@@ -198,14 +198,14 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8 w-full relative z-10">
       <div class="mx-auto max-w-3xl text-center">
         <h1 class="text-5xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-6xl lg:text-7xl dark:text-white">
-          Den danske tech stack til software-virksomheder
+          Den danske tech stack
         </h1>
         <p class="mt-8 text-xl/8 text-gray-600 dark:text-gray-400 max-[450px]:hidden">
-          Vi er en gruppe iværksættere, der ønsker at sætte fokus på danske produkter, man kan bruge som tech stack i softwarevirksomheder. I en tid hvor der ofte tales om Danmarks afhængighed af udenlandsk software, vil vi fremhæve systemer, vi selv har tillid til - med hovedkontor i Danmark eller med danske stiftere eller medstiftere. 
+          Vi er en gruppe iværksættere, der ønsker at sætte fokus på danske produkter, man kan bruge i sin tech stack. I en tid hvor der ofte tales om Danmarks afhængighed af udenlandsk software, vil vi fremhæve systemer, vi selv har tillid til - med hovedkontor i Danmark eller med danske stiftere eller medstiftere. 
           Danmark har nemlig en stolt tradition inden for softwareudvikling. Teknologier som Ruby on Rails, C++ og PHP har danske rødder, og nedenfor har vi samlet en liste over stærke danske alternativer til software, der ellers typisk købes i udlandet.
         </p>
         <p class="mt-8 text-xl/8 text-gray-600 dark:text-gray-400 hidden max-[450px]:block">
-          Vi er en gruppe iværksættere, der ønsker at sætte fokus på danske produkter, man kan bruge som tech stack i softwarevirksomheder. I en tid hvor der ofte tales om Danmarks afhængighed af udenlandsk software, vil vi fremhæve danske systemer, vi selv har tillid til.
+          Vi er en gruppe iværksættere, der ønsker at sætte fokus på danske produkter, man kan bruge i sin tech stack. I en tid hvor der ofte tales om Danmarks afhængighed af udenlandsk software, vil vi fremhæve danske systemer, vi selv har tillid til.
         </p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
           <a href="#produkter" class="rounded-md bg-gray-900 px-6 py-3.5 text-base font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-100">
@@ -221,7 +221,7 @@
   <div id="produkter" class="bg-white py-24 sm:py-32 dark:bg-gray-900">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
-        <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Tech fra 🇩🇰 til software-firmaer</h2>
+        <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Tech fra 🇩🇰</h2>
         <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
           Her er en oversigt over danske systemer, som du kan bruge i din tech stack:
         </p>
@@ -693,7 +693,7 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl text-center">
         <h2 class="text-4xl font-semibold tracking-tight text-pretty text-gray-900 sm:text-5xl dark:text-white">De tre oprindelige bagmænd</h2>
-        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">Vi er tre glade iværksættere fra Danmark som elsker tech, business og at bygge virksomheder. Vi har fulgt debatten omkring at Danmark måske "falder bagud" internationalt og vi er nok desværre enige. Derfor vil vi gerne prøve at kaste lidt lys på danske tech-firmaer som vi mener er gode alternativer til de store internationale spillere, når man som software-virksmohed leder efter produkter til sin stack.</p>
+        <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">Vi er tre glade iværksættere fra Danmark som elsker tech, business og at bygge virksomheder. Vi har fulgt debatten omkring at Danmark måske "falder bagud" internationalt og vi er nok desværre enige. Derfor vil vi gerne prøve at kaste lidt lys på danske tech-firmaer som vi mener er gode alternativer til de store internationale spillere, når man leder efter produkter.</p>
       </div>
       <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 text-center sm:grid-cols-3 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:justify-items-center">
         <li>
@@ -740,7 +740,7 @@
       <div class="mx-auto max-w-2xl text-center">
         <h2 class="text-3xl font-semibold tracking-tight text-gray-900 sm:text-4xl dark:text-white">Del budskabet</h2>
         <p class="mt-6 text-lg/8 text-gray-600 dark:text-gray-400">
-          Hjælp os med at sprede budskabet om den danske tech stack. Del dette med andre danske software-virksomheder, der leder efter alternativer. 
+          Hjælp os med at sprede budskabet om den danske tech stack. Del dette med andre danske virksomheder, der leder efter alternativer. 
         </p>
         <div class="mt-10 flex items-center justify-center gap-x-4">
           <a href="https://twitter.com/intent/tweet?text=Tjek%20lige%20den%20danske%20tech%20stack%20ud.%20Man%20kan%20sagtens%20k%C3%B8be%20fed%20software%20i%20Danmark.%20Se%20dansktechstack.dk&url=https://dansktechstack.dk" target="_blank" rel="noopener noreferrer" class="rounded-md bg-gray-900 px-4 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900 dark:bg-white dark:text-gray-900 dark:hover:bg-gray-100">
