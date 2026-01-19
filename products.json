@@ -218,5 +218,11 @@
     "url": "https://ziik.dk",
     "description": "Ziik nytænker intranettet, med en all-in-one kommunikations- og informationdelingsplatform, der sikrer bedre engagement for medarbejdere",
     "alternatives": ["Sharepoint"]
+  },
+  {
+    "name": "Dynamicweb",
+    "url": "https://dynamicweb.dk",
+    "description": "Dynamicweb - CMS, Ecommerce og PIM - med fokus på B2B salgs processer og produkt informations styring",
+    "alternatives": ["Shopify B2B, Commercetools, Sana Commerce"]
   }
 ]
