@@ -420,5 +420,17 @@
       "alternatives":[
          "Shopify B2B, Commercetools, Sana Commerce"
       ]
+   },
+   {
+      "name":"Velatir",
+      "url":"https://www.velatir.com",
+      "description":"Platform til sporbarhed, gennemsigtighed og kontrol over AI-handlinger – 100% EU-infrastruktur. Godkend, log og overvåg AI-brug på tværs af organisationen.",
+      "alternatives":[
+         "GoToHuman", 
+         "Arize AI", 
+         "Guardrails AI", 
+         "Opik", 
+         "Maisa AI"
+      ]
    }
 ]
