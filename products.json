@@ -110,6 +110,16 @@
       "image": "images/e-conomic.png"
    },
    {
+      "name": "Favio.ai",
+      "url": "https://favio.ai",
+      "description": "Dansk AI-platform der giver teams sikker adgang til alle frontier-modeller (GPT, Claude, Gemini, Mistral) med enterprise security, audit trails og cost controls. Inkluderer white-label chat på eget domæne, BYOK, knowledge base, Custom Assistants, Detaljeret Analytics, og integrationer til Shopify, Gmail, Google Analytics m.fl. GDPR-compliant med EU-hosting.",
+      "alternatives": [
+         "Langdock.com",
+         "Nexos.ai"
+      ],
+      "image": "images/favio-ai.jpg"
+   },
+   {
       "name": "Fenerum.com",
       "url": "https://fenerum.com",
       "description": "SaaS finances",
