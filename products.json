@@ -608,4 +608,16 @@
       ],
       "image": "images/connie.png"
   }
+  ,{
+      "name":"Returnflows",
+      "url":"https://www.returnflows.com",
+      "description":"Return management platform for e-commerce. Returnflows hjælper med at gøre returnering nemmere og mere effektivt.",
+      "alternatives":[
+         "Returnless",
+         "Loop Returns",
+         "Returngo",
+         "Frate Returns"
+      ],
+      "image": "images/returnflows.png"
+  }
 ]
