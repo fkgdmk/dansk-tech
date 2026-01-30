@@ -35,6 +35,19 @@
       "image": "images/bastio-ai-security.jpg"
    },
    {
+      "name": "Behandlerdata",
+      "url": "https://behandlerdata.dk",
+      "description": "Overenskomstpriser for behandlere - Behandlerdata.dk samler, normaliserer og udstiller takster, så I kan slå op på sekunder eller integrere direkte via API",
+      "alternatives": [
+         "OnlineTherapy",
+         "BetterHelp",
+         "International Therapist Directory",
+         "Location Independent Therapists",
+         "GoodTherapy",
+         "TherapyDen"
+      ]
+   },
+   {
       "name": "Boligforeningsweb",
       "url": "https://boligforeningsweb.dk",
       "description": "Software til administration af boligforeninger",
